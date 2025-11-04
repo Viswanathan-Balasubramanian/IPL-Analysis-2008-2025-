@@ -84,4 +84,5 @@ Bowling Statistics
 Purpose
 This dashboard helps understand player consistency, strengths, and overall contribution across seasons in a visually appealing format.
 
-
+## IPL dashboard measure query file
+It contains measure queries which is used for this analysis. see that file completely for creating the measures and it that file it also conatins the realtionship between the tables totally 11 relationship which has active and inactive relationship according to the Analysis.
